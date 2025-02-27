@@ -3,7 +3,7 @@ export default function Home() {
     <div className="hero bg-base-200 min-h-screen">
       <div className="hero-content flex-col lg:flex-row">
         <img
-          src="https://www.baen.com/media/catalog/product/0/7/0743499107-lg.jpg"
+          src="/socsci19/images/logicnamedjoe-cover.jpg"
           className="max-w-sm rounded-lg shadow-2xl"
         />
         <div>
