@@ -25,12 +25,12 @@ export default function Conclusion() {
           Final Thoughts
         </h2>
         <p className="text-gray-300 text-lg leading-relaxed">
-          Overall, This presentation highlighted the themes from "A Logic Named
-          Joe" about AI doing exactly as it's told, ocassionally going off
-          script, and helping humans. It executed commands as I told it too but
-          sometimes added unintended elements or made mistakes. Then as prompts
-          became more detailed, results improved, showing AI’s reliance on clear
-          guidance. While I didn’t code myself, I refined outputs through
+          Overall, this showcases the themes of AI doing exactly as it's told,
+          ocassionally going off script, and its ability to help us. It executed
+          prompts as I told it too but sometimes added unintended elements or
+          made mistakes. Then as prompts became more detailed, results improved,
+          showing AI’s reliance on clear instructions to really get it do what
+          you want. While I didn’t code myself, I refined outputs through
           iteration, showing current AI is a tool that enhances creativity but
           still needs human oversight and direction. Even though this was a
           small example, we should be careful with AI as even though it is
