@@ -32,7 +32,7 @@ export default function Home() {
 
           {/* Start Presentation Button */}
           <div className="mt-6">
-            <Link to="/socsci19/summary">
+            <Link to="/summary">
               <button className="btn bg-green-700 hover:bg-green-800 text-white text-lg font-semibold transition-transform duration-300 hover:scale-105">
                 Start Presentation
               </button>

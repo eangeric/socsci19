@@ -114,7 +114,7 @@ export default function Conclusion() {
         whileHover={{ scale: 1.05 }}
         whileTap={{ scale: 0.95 }}
       >
-        <Link to="/socsci19">Back to Start</Link>
+        <Link to="/">Back to Start</Link>
       </motion.button>
     </div>
   );

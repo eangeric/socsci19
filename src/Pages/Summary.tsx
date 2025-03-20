@@ -180,7 +180,7 @@ export default function Summary() {
           </p>
         </div>
         <div className="mt-8">
-          <Link to="/socsci19/page/1">
+          <Link to="/page/1">
             <button className="btn bg-green-700 hover:bg-green-800 transition-colors duration-300 ease-in-out ">
               Continue
             </button>
